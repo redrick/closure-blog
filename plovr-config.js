@@ -3,12 +3,12 @@
   "id": "custom-component",
 
   // This is our "entry point" to the application.
-  "inputs": "src/main.js",
+  "inputs": "config/main.js",
 
   // Any additional module requirements "using goog.require" can be found here.
   // Note: the core library is included in plovr. This should *only* contain
   //       your own custom modules!
-  "paths": "src/lib",
+  "paths": "app",
 
   "mode": "ADVANCED"
 

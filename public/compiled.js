@@ -1,1 +1,0 @@
-function a(e){window.console.log(e)}var b=["example","sayHello"],c=this;b[0]in c||!c.execScript||c.execScript("var "+b[0]);for(var d;b.length&&(d=b.shift());)b.length||void 0===a?c=c[d]?c[d]:c[d]={}:c[d]=a;
