@@ -3,7 +3,7 @@
   "id": "custom-component",
 
   // This is our "entry point" to the application.
-  "inputs": "config/main.js",
+  "inputs": "config/application.js",
 
   // Any additional module requirements "using goog.require" can be found here.
   // Note: the core library is included in plovr. This should *only* contain
