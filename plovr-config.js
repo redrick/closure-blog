@@ -13,4 +13,7 @@
   "mode": "ADVANCED"
 
   // "level": "VERBOSE"
+
+
+  // for more config info http://plovr.com/options.html
 }
